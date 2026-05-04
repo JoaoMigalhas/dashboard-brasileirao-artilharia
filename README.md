@@ -25,14 +25,12 @@ brasileirao-dashboard/
 ├── python/
 │   ├── app.py               # Dashboard Streamlit
 │   ├── teste_api.py         # Script de coleta de dados via API
+|   |── dash.pbix.zip        # Dashboard do powerbi zipado      
 │   ├── data/
 │   │   └── jogadores.csv    # Dados gerados pela API
+|   |
+|   |
 │   └── requirements.txt     # Dependências Python
-├── powerbi/
-│   └── brasileirao.pbix     # Dashboard Power BI
-├── docs/
-│   ├── streamlit_preview.png
-│   └── powerbi_preview.png
 └── README.md
 ```
 
