@@ -1,6 +1,13 @@
 # ⚽ Brasileirão 2025 — Dashboard de Estatísticas
 
 Dashboard interativo com estatísticas dos artilheiros do Brasileirão 2026, desenvolvido em **Python + Streamlit** e **Power BI**, com dados consumidos em tempo real via API.
+---
+
+# Python - streamlit
+<img width="1600" height="750" alt="image" src="https://github.com/user-attachments/assets/56ac6f62-b712-4582-8847-afb122f13ed4" />
+
+# Power BI
+<img width="1484" height="804" alt="image" src="https://github.com/user-attachments/assets/41cc044d-995b-4e00-8949-66327ea13b50" />
 
 ---
 
